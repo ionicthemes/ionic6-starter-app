@@ -3,6 +3,10 @@ Ionic 4 is here with huge improvements. This ionic template is built using Angul
 
 ## [Try the Demo](https://ionicthemes.com/product/ionic4-full-starter-app-pro-version) 
 
+<div>
+<img src="https://ionicthemes.s3-us-west-2.amazonaws.com/cover_images/redesign/ionic4-full-starter-app-pro.jpg">
+</div>
+
 ## All in with Ionic 4 and Angular 7
 This Ionic 4 Template includes lots of Ionic 4 components coded the angular way and features that you will love.
 
@@ -42,6 +46,6 @@ Videos are very important in current apps that's why we added a video playlist t
 
 Also, we added a customizable Google Map and Geolocation using Capacitor Geolocation API.
 
-<div>
-<img src="https://ionicthemes.s3-us-west-2.amazonaws.com/cover_images/redesign/ionic4-full-starter-app-pro.jpg">
-</div>
+
+# Need help?
+Post and issue and we will answer it ASAP.
