@@ -48,4 +48,4 @@ Also, we added a customizable Google Map and Geolocation using Capacitor Geoloca
 
 
 # Need help?
-Post and issue and we will answer it ASAP.
+[Post an issue](https://github.com/ionicthemes/ionic5-starter-app/issues/new) and we will answer it ASAP.
