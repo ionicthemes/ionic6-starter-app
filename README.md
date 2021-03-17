@@ -1,5 +1,5 @@
 # Ionic 5 Full Starter App
-Ionic 5 is here with huge improvements. This ionic template is built using Angular 8 and Ionic Framework 5 and has everything you need to jump start your app development! Get Ion4FullApp and enjoy lots of carefully designed pages with the most required functionalities.
+Ionic 5 Full Starter App is a collection of common features and use cases, UI screens and ionic components that you can use as a whole like a starter template or cherry pick the specific features and components you want to add to your existing Ionic project. Either way, it will enable you to jump right into feature development and save valuable time.
 
 ## [Try the Demo](https://ionicthemes.com/product/ionic5-full-starter-app-pro-version) 
 
@@ -7,8 +7,8 @@ Ionic 5 is here with huge improvements. This ionic template is built using Angul
 <img src="https://ionicthemes.s3-us-west-2.amazonaws.com/cover_images/redesign/ionic5-full-starter-app-pro.jpg">
 </div>
 
-## All in with Ionic 5 and Angular 8
-This Ionic 5 Template includes lots of Ionic 5 components coded the angular way and features that you will love.
+## All in with Ionic 5 and Angular 11
+This Ionic Template includes lots of Ionic components coded the angular way and features that you will love.
 
 ## 100% Flexible and Customizable
 The template includes lots of pages, features and components but you are free to use just what you need and delete the code you don't. The code structure is super modularized so you will find easy to modify the code to fit your needs.
