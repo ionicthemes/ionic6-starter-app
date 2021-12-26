@@ -1,13 +1,13 @@
-# Ionic 5 Full Starter App
-Ionic 5 Full Starter App is a collection of common features and use cases, UI screens and ionic components that you can use as a whole like a starter template or cherry pick the specific features and components you want to add to your existing Ionic project. Either way, it will enable you to jump right into feature development and save valuable time.
+# Ionic 6 Full Starter App
+Ionic 6 Full Starter App is a collection of common features and use cases, UI screens and ionic components that you can use as a whole like a starter template or cherry pick the specific features and components you want to add to your existing Ionic project. Either way, it will enable you to jump right into feature development and save valuable time.
 
-## [Try the Demo](https://ionicthemes.com/product/ionic5-full-starter-app-pro-version) 
+- [Try the Demo](https://ionicthemes.com/templates/ionic5-full-starter-app-pro-version/live-preview) 
 
 <div>
-<img src="https://ionicthemes.s3-us-west-2.amazonaws.com/cover_images/redesign/ionic5-full-starter-app-pro.jpg">
+<img src="https://static.ionicthemes.com/templates/ionic5-full-starter-app-basic-social.png">
 </div>
 
-## All in with Ionic 5 and Angular 11
+## All in with Ionic 6 and Angular 13
 This Ionic Template includes lots of Ionic components coded the angular way and features that you will love.
 
 ## 100% Flexible and Customizable
@@ -20,22 +20,22 @@ CSS Variables provide easy customization of an application and allow a value to 
 The template includes a super detailed documentation as well as an online showcase to help developers use the custom component the template offers.
 
 ## Ionic PWA
-Ionic 5 is a step forward for Progressive Web Apps, that's why we are building this new ionic template with 100% support for PWA. Learn more about PWA with Angular and Ionic.
+Ionic is a step forward for Progressive Web Apps, that's why we are building this new ionic template with 100% support for PWA. Learn more about PWA with Angular and Ionic.
 
-You will be able to use this Ionic 5 starter as an iOS app, an Android app, a web app or as a PWA! Too many options, right?
+You will be able to use this Ionic 6 starter as an iOS app, an Android app, a web app or as a PWA! Too many options, right?
 
-For a web app to be considered a PWA, it needs to comply with 10 principles. [Check how this Ionic Framework 4 app addresses each of them](https://ionicthemes.com/product/ionic4-full-starter-app-pro-version).
+For a web app to be considered a PWA, it needs to comply with 10 principles. [Check how this Ionic app addresses each of them](https://ionicthemes.com/templates/ionic5-full-starter-app-pro-version).
 
 ## Firebase Integration
 Firebase is a popular tool that helps you build apps fast, without managing infrastructure and includes a powerful Database as a Service solution. We built a Firebase Integration for this Ionic Starter App that will show you how to build an advanced CRUD with Firestore as well as how to query your collections. It includes advanced examples with nested relations. *Note that this integration is optional, you can remove it if you don't want to use it.*
 
 
 ## Ionic Capacitor
-[Capacitor](https://ionicthemes.com/tutorials/about/native-cross-platform-web-apps-with-ionic-capacitor) is a cross-platform app runtime that makes it easy to build web apps that run natively on iOS, Android, Electron, and the web.
+[Capacitor](https://ionicthemes.com/tutorials/native-cross-platform-web-apps-with-ionic-capacitor) is a cross-platform app runtime that makes it easy to build web apps that run natively on iOS, Android, Electron, and the web.
 
 It provides a consistent, web-focused set of APIs that enable an app to stay as close to web-standards as possible, while accessing rich native device features on platforms that support them.
 
-This Ionic 5 starter app is built using Capacitor and also shows how to use some of the APIs it provides.
+This Ionic starter app is built using Capacitor and also shows how to use some of the APIs it provides.
 
 ## Other Integrations
 Sometimes our apps need more features that why we added the most required ones to this PRO version.
